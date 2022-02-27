@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A confvtation of the new Presbyterian error. Shewing not onely how neere our late Presbyterians come to the Anabaptists, in restrayning the Supper of the Lord from the people, by way of examination, as they doe children from the sacrament of baptisme, by way of confession; but also how they agree with Papists in auricular confession: and that their practise is sacriligious, new, usurped, and tyrannicall. By Alexander Mingzeis, minister of Gods word.</title>
+            <author>Mingzeis, Alexander.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89160</idno>
+            <idno type="STC">Wing M2191</idno>
+            <idno type="STC">Thomason E1181_10</idno>
+            <idno type="EEBO-CITATION">99867135</idno>
+            <idno type="PROQUEST">99867135</idno>
+            <idno type="VID">169437</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89160)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169437)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1181[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A confvtation of the new Presbyterian error. Shewing not onely how neere our late Presbyterians come to the Anabaptists, in restrayning the Supper of the Lord from the people, by way of examination, as they doe children from the sacrament of baptisme, by way of confession; but also how they agree with Papists in auricular confession: and that their practise is sacriligious, new, usurped, and tyrannicall. By Alexander Mingzeis, minister of Gods word.</title>
+                  <author>Mingzeis, Alexander.</author>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July. 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterians --  Controversial literature --  Early works to 1800.</term>
+               <term>Anabaptists --  Controversial literature --  Early works to 1800.</term>
+               <term>Baptism --  Early works to 1800.</term>
+               <term>Lord's Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169437:1" rendition="simple:additions"/>
+            <p>A CONFVTATION of the New Presbyterian Error.</p>
+            <p>Shewing not onely how neere our late Presby<g ref="char:EOLhyphen"/>terians come to the Anabaptiſts, in reſtray<g ref="char:EOLhyphen"/>ning the Supper of the Lord from the peo<g ref="char:EOLhyphen"/>ple, by way of Examination, as they doe children from the Sacrament of Baptiſme, by way of Confeſſion; but alſo how they a<g ref="char:EOLhyphen"/>gree with Papiſts in Auricular Confeſſion: and that their practiſe is ſacrilegious, new, u<g ref="char:EOLhyphen"/>ſurped, and tyrannicall.</p>
+            <p>By <hi>Alexander Mingzeis,</hi> Miniſter of Gods word.</p>
+            <q>
+               <p>Every plant that my heavenly Father hath not planted ſhall be rooted up.</p>
+               <bibl>
+                  <hi>Matth. 15.3.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Yeere 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169437:2"/>
+            <pb n="3" facs="tcp:169437:2"/>
+            <head>A Confutation of the new Presbyterian Error.</head>
+            <head type="sub">Drawne not onely from the unwarrantableneſſe it hath in Scripture, but alſo from the incon<g ref="char:EOLhyphen"/>venience thence ariſing.</head>
+            <p>
+               <seg rend="decorInit">F</seg>OR the better cleering wherof, ariſeth a threefold Queſtion.</p>
+            <p>The firſt is, to know what right Chriſtians have to the Lords Supper.</p>
+            <p>Secondly, what Chriſtians are to be admitted, and who not.</p>
+            <p>Thirdly, what power the Miniſter hath, to withhold the Communion from the people.</p>
+            <p>Firſt therefore, for the peoples right to that bleſſed Sacrament; I conceive it to bee equall with the right or intereſt the children of Chri<g ref="char:EOLhyphen"/>ſtian parents, have to the Sacrament of Bap<g ref="char:EOLhyphen"/>tiſme, which I prove by the Epiſtle of Paul to the Corinthians, 1. Cor. 7.14. where hee hath theſe words: The unbeleeving husband is ſan<g ref="char:EOLhyphen"/>ctified
+<pb n="4" facs="tcp:169437:3"/>by the wife, and the unbeleeving wife is ſanctified by the husband, elſe were your chil<g ref="char:EOLhyphen"/>dren uncleane, but now are they holy, ſayth the Apoſtle.</p>
+            <p>From whence our late Presbyterians muſt eyther (with the Anabaptiſts) grant that the children of Chriſtian parents, have right to the Sacrament of Baptiſme, without confeſſion of faith, or elſe grant, that Chriſtians that are born within the Covenant pale of the Church, have right to the Sacrament of the holy Communi<g ref="char:EOLhyphen"/>on, without their rigid and ſtrict examination.</p>
+            <p>For as our Church admits the foreſaid In<g ref="char:EOLhyphen"/>fants to the Sacrament of Baptiſme, by the ver<g ref="char:EOLhyphen"/>tue of the fayth of their parents, ſo (I conceive) our Church cannot with-hold any from the Sacrament of the Supper of the Lord, that is borne within the Covenant, the pale of the Church, and hath a deſire to it.</p>
+            <p>But to this will be objected, firſt, that by the place aforenamed, is meant the legitimation of children borne in lawfull wedlocke, and not that children have right to the Sacrament of Baptiſme, much leſſe ignorant and ſcandalous people to the partaking of the holy Commu<g ref="char:EOLhyphen"/>nion.</p>
+            <pb n="5" facs="tcp:169437:3"/>
+            <p>Secondly, that confeſſion of faith and exa<g ref="char:EOLhyphen"/>mination, is to be required in the worthy Re<g ref="char:EOLhyphen"/>ceiver, before his comming to the participati<g ref="char:EOLhyphen"/>on of that bleſſed Sacrament, notwithſtanding he b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> borne within the Covenant, and the pale of the Church, and of Chriſtian parents.</p>
+            <p>To the former objection I anſwer, that the Ap<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtles concluſion is not onely to reſolve the law<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull cohabi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation of a beleever with an infi<g ref="char:EOLhyphen"/>dell, but alſo that their children ſo begotten in law<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l wedlocke, are intereſſed to the outward ordinances and priviledges of the Church, elſe he would not have added, elſe were your chil<g ref="char:EOLhyphen"/>dren uncleane, but now they are holy; which to be ſo, I prove by another expreſſe place and warrant of Scripture: as when God command<g ref="char:EOLhyphen"/>ed Abraham Gen.
+17.12. not only to circum<g ref="char:EOLhyphen"/>ciſe himſelfe and his ſeed, but alſo the ſtranger that was borne in his houſe, or bought with money; all which circumciſed of<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pring having as free acceſſe to the externall worſhip and ſer<g ref="char:EOLhyphen"/>vice of the Sanctuary, as Abrahams own poſte<g ref="char:EOLhyphen"/>rity. I reaſon from hence, That if thoſe within the Covenant under circumciſion, had right to the outward priviledges of the Sanctuary, then much more have we to the ordinances of the
+<pb n="6" facs="tcp:169437:4"/>Goſpel, by reaſon circumciſion was not only a type of baptiſme, but alſo becauſe wee are cal<g ref="char:EOLhyphen"/>led to a greater liberty, Chriſts yoke being ea<g ref="char:EOLhyphen"/>ſie, and his burden light, Matt. 11.30.</p>
+            <p>To the ſecond objection, I anſwer, that albe<g ref="char:EOLhyphen"/>it confeſſion of faith and examination is to bee required <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n a worthy receiver, before he be ad<g ref="char:EOLhyphen"/>mitted to the participation of thoſe divine my<g ref="char:EOLhyphen"/>ſteries, yet is it not alwaies ſuch a confeſſion as our Adverſaries dream of, nor hath the Church any ſuch power to examine as they pretend, much leſſe to keepe the Communion from the people, upon pretence of that examination and confeſſion.</p>
+            <p>For firſt for confeſſion, Philip held it enough in the Eunuch, to beleeve Jeſus Chriſt to bee the ſonne of the living God; beſides that, all which are borne within the pale of the Church are intereſſed, as before.</p>
+            <p>But to this it will bee objected, that the Di<g ref="char:EOLhyphen"/>vels may goe thus far, therefore &amp;c.</p>
+            <p>I anſwer, the Divels may beleeve in gene<g ref="char:EOLhyphen"/>rall, but they cannot apply any thing in particu<g ref="char:EOLhyphen"/>lar to themſelves. Now the rule of faith advi<g ref="char:EOLhyphen"/>ſeth us to judge charitably of all men, there<g ref="char:EOLhyphen"/>fore &amp;c.</p>
+            <pb n="7" facs="tcp:169437:4"/>
+            <p>As for examination, the Apoſtle willeth a man to examine himſelfe, 1. Cor. 11.28. and not to be examined by the Elders or Presbyte<g ref="char:EOLhyphen"/>ry, therefore &amp;c.</p>
+            <p>But to this it will bee objected, that our peo<g ref="char:EOLhyphen"/>ple are not ſo able to examine themſelves as the Corinthians were, &amp;c.</p>
+            <p>I anſwer, that appeares, for ſome of them were drunke, and ſome ſober, when they came to be breaking of bread, and the participation of the bleſſed Sacrament. And I never ſaw any drunken man yet in England admitted to the partaking of the body and bloud of Chriſt: wherfore heer commeth in, in the ſecond place, to know who are worthy to receive, and who not, or who are to be admitted, and who not.</p>
+            <p>To which, I anſwer, all that are intereſſed as before, that have a deſire to it, and are able to examine themſelves.</p>
+            <p>Now in examination there is only required theſe two things: <hi>viz.</hi> Firſt to know whether we be in Chriſt, and Chriſt in us; and whether we are able to diſcerne the Lords body in that bleſſed Sacrament.</p>
+            <p>Firſt, therefore we muſt examine whether we be in the faith, and conſequently we in Chriſt,
+<pb n="8" facs="tcp:169437:5"/>and Chriſt in us; according to that of the Apo<g ref="char:EOLhyphen"/>ſtle, 2. Cor. 13.5. Examine your owne ſelves whether you be in the faith, prove your owne ſelves; know yee not your owne ſelves, how that Jeſus Chriſt is in you, except you bee re<g ref="char:EOLhyphen"/>probates? So that all but reprobates may know themſelves to bee ingrafted into Chriſt, by a true ſaving faith, and Chriſt into them, that they have put on Chriſt and cannot put him off againe: that they are baptiſed into Chriſt, and with him buried by baptiſme, into the likenes of his death, to the end they may riſe with him unto the newneſſe of life. They carry Chriſt along with them, in the participation of that bleſſed Sacrament; and therefore cannot chuſe but finde him there.</p>
+            <p>The ſecond thing that is requiſite to examin our ſelves in, is to know whether we be able to diſcerne the Lords body in that bleſſed Sacra<g ref="char:EOLhyphen"/>ment, leſt in eating and drinking unworthily, we eat and drinke our owne damnation. Now to diſcerne the Lords body in that bleſſed Sa<g ref="char:EOLhyphen"/>crament, is (by faith) to ſee Chriſt ſet foorth before us, in thoſe bleſſed elements of bread and wine, and him crucified. Which calls our ſinnes to remembrance, and our ſelves crucifi<g ref="char:EOLhyphen"/>ed
+<pb n="9" facs="tcp:169437:5"/>with Chriſt to them through true and un<g ref="char:EOLhyphen"/>ſayned repentance. This is eating of the Paſſe<g ref="char:EOLhyphen"/>over w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th unleavened bread, and bitter hearbs, Exod. 12.8. whence wee muſt examine whe<g ref="char:EOLhyphen"/>ther there be in us a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unfamed purpoſe and re<g ref="char:EOLhyphen"/>ſolution of amendment of life, and that we will become new creatures, and ſo put now wine into new veſſels, in laying Chriſt in a new tombe or ſepulchre, Matth. 27 60. And whe<g ref="char:EOLhyphen"/>ther there bee in us a bunger and thirſt after Chriſt in that bleſſed Sacrament, to the end we may not only be made one with Chriſt, but al<g ref="char:EOLhyphen"/>ſo that we may be rooted and ſtabliſhed in him, and grow up into a holy building in the Lord, Eph. 4.15. and have all his divine gifts and gra<g ref="char:EOLhyphen"/>ces ſealed up unto us in that bleſſed Sacrament. So that Chriſt may become in us a well of wa<g ref="char:EOLhyphen"/>ter of life, ſpringing up into life eternall, John 4.14.</p>
+            <p>This is the worthy receiving.</p>
+            <p>The unworthy is of three ſorts: The novice, the ſtranger, and the ſcandalous.</p>
+            <p>By the novice, I underſtand ſuch, who though they be born within the Covenant and pale of the Church, yet are not ſufficiently ſeen in the principles of Faith, and of Chriſtian Re<g ref="char:EOLhyphen"/>ligion,
+<pb n="10" facs="tcp:169437:6"/>which in the Primitive times) were cal<g ref="char:EOLhyphen"/>led <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, who with thoſe before named, were commanded to depart after the Sermon was ended, and the bleſſing pronounced, and were not ſuffered to be idle gazers or lookers on, when the holy Sacrament of the communi<g ref="char:EOLhyphen"/>on of the body and bloud of Chriſt was to bee adminiſtred.</p>
+            <p>By the ſtranger, I underſtand ſuch, as were of another Congregation, or Pariſh, who alſo were not to bee admitted without certificate from the place and Paſtor whence they came, of their life and converſation, and their ſuffici<g ref="char:EOLhyphen"/>ency in receiving.</p>
+            <p>The third ſort that was reſtrained from the Communion, was the ſcandalous perſon, by which I underſtand the prophane, and all ſorts of Heathens, Gentiles, Infidels, Heretiques, Se<g ref="char:EOLhyphen"/>ctaries, and the like. Theſe were the dogges and hogges to whom the Sacrament of the bleſſed Communion of the body and bloud of Chriſt was denied, becauſe it is not fitting to take the childrens bread, and caſt it unto dogs.</p>
+            <p>But it will be objected, that many ſuch dogs we have now in the Kingdome: I anſwer, firſt the Miniſter may be miſtaken in judging them
+<pb n="11" facs="tcp:169437:6"/>to be dogs, which are ſaints. Secondly, I an<g ref="char:EOLhyphen"/>ſwer, that if it be underſtood of novices or ig<g ref="char:EOLhyphen"/>norant people, then it ought to be the care and endeavour of the Miniſter (according to the cuſtome of the Primitive times) to inſtruct and teach them in the faith, and in the Principles of Chriſtian Religion and vertue, which being the Miniſters fault that it is neglected; I doe not ſee but he is more to be blamed then the people; for he after the example of Chriſt ought to carry his Lambes in his boſome, and gently drive on them that are with yong; he ought by gen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le perſwaſion and intreaty to al<g ref="char:EOLhyphen"/>lure and draw on the ignorant to come nearer unto Chriſt, and not by force and ſtrong hand keepe him of. It is for thoſe Chriſt dyed, and dare the Miniſter deny him the bread and wine to whom Chriſt denyes not his body and bloud? Is Chriſt come into the ſoule and made one with it, and ſhall that ſoule bee denied the outward priviledge of his love? Let our new Presbyterians therefore conſider, what they have done in with-holding the Communion all this while from many which they know not. One ſaith, [<hi>I have read it in Biſhop Iewel, and</hi> Mr. <hi>Foxes Acts and Monuments</hi>] That the gifts
+<pb n="12" facs="tcp:169437:7"/>of the Lord ſhould not have beene denied to the Divells, if Chriſt had died for them; but we deny it to Chriſtians for whom he ſuffered. I pray God it bee not layd to our Miniſters charge, and the bloud of Chriſt bee not requi<g ref="char:EOLhyphen"/>red at their hands, or at the leaſt the ſoules of theſe innocents whom they have ſo much diſ<g ref="char:EOLhyphen"/>couraged. Chriſt ſaith, that it were better for one that offendeth but one of the little ones, that a milſtone were hanged about his necke, and he were caſt into the bottome of the ſea, then that any ſuch offence were given.</p>
+            <p>Thirdly, I anſwer, if it be underſtood of the ſtranger or ſcandalous, then it ought to bee the care of the Elders and Churchwardens, or of a<g ref="char:EOLhyphen"/>ny one in the Pariſh (in caſe the Miniſter bee a ſtranger himſelfe) to give timely notice unto the Miniſter of ſuch an unworthy receiver, to the end he may be preſented, if hee repent not: but not therfore to keepe the bread of life from all, becauſe ſome are unworthy.</p>
+            <p>And therfore I utterly deny in the third and laſt place, that the Church, much leſſe any pri<g ref="char:EOLhyphen"/>vate Miniſter in particular, hath any ſuch pow<g ref="char:EOLhyphen"/>er to with-hold the Communion from all, un<g ref="char:EOLhyphen"/>der pretence of ſome unworthy receivers; or
+<pb n="13" facs="tcp:169437:7"/>that they have any ſuch power, to lay burden or yoke upon the peoples neckes of a new in<g ref="char:EOLhyphen"/>vented and tyrannical diſcipline: for Chriſt and his Apoſtles did not practiſe it, the primitive times, for ought I know, did not dreame of it, and the true reformed Churches are not privy to it. For Chriſt gave the Sacrament to Judas which was a Divell, a thiefe, a murtherer, and a traytor. The Apoſtle bore with the Corinthi<g ref="char:EOLhyphen"/>ans unworthy receiving (though otherwiſe hee chekt them for it) but we heare not of any new charge he layd upon them to bee examined by the Miniſtery or Presbytery, but that they ſhould examin themſelves, as being in the faith, and living within the pale of the Church: but I muſt confeſſe, our late Presbyterians are grown wiſer then either Chriſt or his Apoſtles. The Primitive times uſed no ſuch cuſtome, but did as before is ſpecified, which uſe all the true reformed Churches following, except againſt none, but as before is declared; and if any bee ignorant, they take the more paines with him, by inſtructing and teaching him, as before.</p>
+            <p>And therefore I doe not only conclude this with-holding people from the Communion, under pretence of examination, to be Anabap<g ref="char:EOLhyphen"/>tiſticall,
+<pb n="14" facs="tcp:169437:8"/>but alſo new, uſurped, ſacrilegious, Antichriſtian, and tyrannicall; and ſuch a yoke as neither we nor our fathers were able to bear. Firſt I ſay, it is ſacrilegious, being worſe then Church-robbing; for the one doeth but be<g ref="char:EOLhyphen"/>reave the congregation of corporall things, the other of ſpirituall, the one of temporall, the o<g ref="char:EOLhyphen"/>ther of eternall; the one robs the body, the o<g ref="char:EOLhyphen"/>ther the ſoule, the one of things of ſmall value, and which indure but for a time, the other of Chriſt, of ineſtimable value, and which indu<g ref="char:EOLhyphen"/>reth for ever. The wolfe (ſayth our bleſſed Saviour) commeth but for to ſteale and to de<g ref="char:EOLhyphen"/>vour, but many ſuch wolves are entred into our Church this day, who are come to us in ſheeps clothing, but inwardly ſhew themſelves what they are, and by their fruits of pride, ambition, vaine-glory, and covetouſneſſe, they may bee knowne. I write not heere againſt the ancient, grave or Orthodox Divines, but againſt our new Doctors, and late upſtarts in the Church, who pretending great purity and reformation, have brought all into diſorder and confuſion, and in ſtead of bringing ſoules neerer unto Chriſt, have driven innumerable thouſands far<g ref="char:EOLhyphen"/>ther from him, through their unadviſed and
+<pb n="15" facs="tcp:169437:8"/>raſh proceedings in the ſame againſt them.</p>
+            <p>Secondly, I ſay that this new yoke of tyran<g ref="char:EOLhyphen"/>nizing over the ſoules and conſciences of the people, is not onely new uſurped, but alſo Antichriſtian: And as it is like unto Anabap<g ref="char:EOLhyphen"/>tiſts in Sacramentall confeſſion, ſo it is like unto Papiſts in auricular. For as the Papiſt will ad<g ref="char:EOLhyphen"/>mit none to the eating of their breaden God, or wafer cake, before he hath made confeſſion of his ſinnes, ſo our new Presbyterians will admit none to the partaking of the holy Communion before hee have gone through the pikes of a new invented and tyrannicall diſcipline, having neither warrant in the word of God, nor any tracke of example either in the primitive times, or true reformed Churches, ſo farre as ever I have read or underſtood.</p>
+            <p>Thirdly, and laſtly, as it is ſacrilegious and Antichriſtian, ſo is it tyrannicall, and contrary to the Apoſtles advice, which is, that we ſhould not rule as Lords over Gods heritage, but with meekneſſe, &amp;c. Which I prove from the in<g ref="char:EOLhyphen"/>conveniences thence ariſing being twofold. Firſt, in that it diſcourages people from com<g ref="char:EOLhyphen"/>ming to Chriſt, in that it drives them further from him.</p>
+            <pb n="16" facs="tcp:169437:9"/>
+            <p>Firſt, I ſay it diſcourages people from com<g ref="char:EOLhyphen"/>ming into Chriſt, by thus with<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lding the Sup<g ref="char:EOLhyphen"/>per of the Lord from them, becauſe they know they have right to it, as being within the Co<g ref="char:EOLhyphen"/>venant, and borne within the pale of the Church, and of Chriſtian Parents; and there<g ref="char:EOLhyphen"/>fore if they have right to Chriſt in whom they believe, why ſhould they not much more have right to the outward ordinances? And there<g ref="char:EOLhyphen"/>fore as long as they are unlawfully kept and detained from thence, they will not come to the Miniſtery of the word, though wee preach with the tongue of men and Angels, though I confeſſed ſhould not be ſo, but the beſt of the Saints, and choſen children of God have ſome<g ref="char:EOLhyphen"/>what of nature in them; for if a mans perſon be once diſaffected, his doctrine will ever hard<g ref="char:EOLhyphen"/>ly be liked, be it never ſo powerfull or effectu<g ref="char:EOLhyphen"/>all. Beſides what innumerable poore ſoules have been very neere driven to diſpaire, be<g ref="char:EOLhyphen"/>cauſe they have been judged (as they have con<g ref="char:EOLhyphen"/>ceived) unworthy of the body and bloud of Chriſt, or communion with him in that bleſſed Sacrament: with teares I have been told they have beene kept from it, and with teares of joy they have come to it againe. Now is not
+<pb n="17" facs="tcp:169437:9"/>this an offending of Chriſts little ones, and the weak brethren, for who<g ref="char:cmbAbbrStroke">̄</g> Chriſt dyed: Is not this a Lording it over the ſoules and conſciences of men? Is not this a puſhing and ſhoving of the weaker cattle from the Fountaine of living wa<g ref="char:EOLhyphen"/>ters? is not this a ſhutting up of the Kingdome of God againſt all, and neither will go in our ſelves, nor ſuffer them that are entring to go in? or is there not a woe proclaimed and doth be<g ref="char:EOLhyphen"/>long to them that doe ſo? Chriſt will have mercy and not ſacrifice, Math. 9.13. our new Doctours will have ſacrifice and not mercy. Chriſt ſaith, come unto me all yee that labour, and are heavy laden, Math. 11.28. they drive all away. Chriſt will not breake the bruiſed reed, nor quench the ſmoking flax, Matth. 12.20. they doe both. Chriſt requires faith but as big as a graine of muſtard ſeed, Matth. 17.20. they will have it as bigge as a mountain. Nay they are worſe then good Hezekiah the King, for he prayed for them that came not prepared with the due preparation of the Sanctuary, 2. Chro. 30.19. but they drive them away, and keep all backe, in thus with-holding &amp;c.</p>
+            <p>But by this with holding the Communion from the people, while they are duly prepared
+<pb n="18" facs="tcp:169437:10"/>it rather ſhould fit them then diſcourage them. I anſwer, yes; if but new Presbyterians could alſo give grace and incline their hearts, then they might keepe the Communion from them at their pleaſure; but we muſt not doe evill up<g ref="char:EOLhyphen"/>on uncertaine and unwarrantable grounds, that good may come of it.</p>
+            <p>But they have power ſo to doe, having the keyes committed to their charge, and the diſ<g ref="char:EOLhyphen"/>penſation of the word and Sacraments.</p>
+            <p>I anſwer, they have the keyes (ſome of them) it may be ſuppoſed, but not to open hell and ſhut heaven. Neither is the diſpenſation of the word &amp; Sacraments committed to their charge to be diſpoſed of at their pleaſure, but at the will and pleaſure of the Almighty, and as occa<g ref="char:EOLhyphen"/>ſion, time, place, and perſons, ſhall call for the ſame and deſire it. They are Miniſters of the word and Sacraments, not Lords.</p>
+            <p>But the Sacraments are but outward ordi<g ref="char:EOLhyphen"/>nances, and in themſelves indifferent, there<g ref="char:EOLhyphen"/>fore &amp;c.</p>
+            <p>
+               <pb n="19" facs="tcp:169437:10"/> The <hi>minor</hi> is proved by that of Matthew, wher<g ref="char:EOLhyphen"/>as Chriſt ſaith expreſly (ſpeaking of the bread) This is my body, not that I therefore take the bread properly to be Chriſts body but a type and figure of the ſame; howbeit they are ſo u<g ref="char:EOLhyphen"/>nited in the worthy receiver, that they can be no more ſevered then the ſhadow and the ſub<g ref="char:EOLhyphen"/>ſtance, or the kirnell and the ſhell. Now wee may finde by the ſhadow that there is a body, ſo likewiſe the Sacrament of the holy Com<g ref="char:EOLhyphen"/>munion puts us in minde of the death and paſſi<g ref="char:EOLhyphen"/>on of our Lord Jeſus Chriſt, and of his body and bloud; therefore ſayth Chriſt, Doe this in remembrance of me. And the Apoſtle as often as we eat of that bread and drinke of that cup, we ſhew or ſet forth the Lords death untill his comming againe. And can the bride or belo<g ref="char:EOLhyphen"/>ved ſpouſe but rejoyce to thinke and heare of her beloved, eſpecially to bee made one with him, as ſhe is in that bleſſed Sacrament, which being the ſhell that is broken, in the diſtribu<g ref="char:EOLhyphen"/>ting thereof, ſhee comes to the kirnell Chriſt himſelfe, whom her ſoule ſeeketh, and in whom ſhe is delighted. Now let our new Presbyte<g ref="char:EOLhyphen"/>rians call the Sacrament an outward ordinance alone, and a thing indifferent, they may eaſily
+<pb n="20" facs="tcp:169437:11"/>receive heereby (if they will not bee wilfully blinded and ſhut their eyes) how indifferent it <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and what they have kept the people from all <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his while: <hi>viz.</hi> from the communion and par<g ref="char:EOLhyphen"/>ticipation of their bleſſed Lord and Saviour Je<g ref="char:EOLhyphen"/>ſus Chriſt.</p>
+            <p>Laſtly, I prove this with-holding the Com<g ref="char:EOLhyphen"/>munion from the people, under pretence of ex<g ref="char:EOLhyphen"/>amination, to be meerly tyrannicall, as it drives people further from God. But becauſe I have ſufficiently ſpoken of this before, therefore I come now to exhort my brethren to deſiſt and leave off this new kinde of diſcipline and go<g ref="char:EOLhyphen"/>vernment in the Church: firſt, becauſe it is new uſurped, and tyrannicall. Secondly, becauſe it hath no warrant in the word of God, nor by the practiſe and example of the primitive times and true reformed Churches. Thirdly, becauſe it ſwayes too much with common baptiſme and Popery, and to bee contented to bee ruled by the word of God, and the cuſtome and pra<g ref="char:EOLhyphen"/>ctiſe of the primitive times, and all true refor<g ref="char:EOLhyphen"/>med Churches. Which conſiſts firſt, in being diligent in Catechiſing the youth of their ſeve<g ref="char:EOLhyphen"/>rall Pariſhes and Congregations, and ſo laying the grounds of ſayth and principles of Chriſti<g ref="char:EOLhyphen"/>an
+<pb n="21" facs="tcp:169437:11"/>Religion, and vertue among them.</p>
+            <p>Secondly, in being diligent to teach the word of God among the elder ſort of people, and how they ought to come to the partaking of the Sacrament of the holy Communion, how they ought to be prepared for it, the bene<g ref="char:EOLhyphen"/>fit which they are to receive thereby, and the danger that will and doeth enſue, in caſe they eat and drinke unworthily.</p>
+            <p>Thirdly, in caſe hee finde any meerly igno<g ref="char:EOLhyphen"/>rant indeed, to take a little the more extraordi<g ref="char:EOLhyphen"/>nary paines with him, both in publike and pri<g ref="char:EOLhyphen"/>vate, ſo he will be content to be taught, but in caſe hee prove obſtinate and hate to bee refor<g ref="char:EOLhyphen"/>med, then he may note ſuch an one, and not give him the Communion, untill hee come in and yeeld himſelfe to wholeſome inſtruction and government: for though he bee intereſſed as before, yet not being able to examine him<g ref="char:EOLhyphen"/>ſelfe whether he be in the fayth, or to diſcerne the Lords body in that bleſſed Sacrament, and his obſtinacy makes him altogether uncapable of that bleſſed Sacrament; therefore the key or cenſure of the Church is to bee uſed againſt ſuch an one: but in caſe there bee any meaſure of faith in the party, and that hee can give but
+<pb n="22" facs="tcp:169437:12"/>any competent account of the ſame, and have a deſire being of yeeres, the Sacrament is not (in my opinion) to bee denied him, becauſe Chriſt begins to bee new formed in him, hee thirſts after the water of life. Hee is the ſmo<g ref="char:EOLhyphen"/>king fl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x which Chriſt will not quench untill ſuch time as hee hath brought judgement into victory; ſeeing the Sacrament of the holy Communion ſerveth not only to ſigne and ſeal our ſalvation, but alſo convey grace to the wor<g ref="char:EOLhyphen"/>thy receiver, and nouriſh it in him. But in caſe any in the Congregation (being qualified as before) doe receive unworthily, the Miniſter not being privy to it, the fault is not the Mini<g ref="char:EOLhyphen"/>ſters, but the parties receiving, and his bloud ſhall be upon his owne head, becauſe the Mini<g ref="char:EOLhyphen"/>ſter hath told him the danger of unworthy re<g ref="char:EOLhyphen"/>ceiving. But what if the Miniſter doe ſuſpect any of ſcandall or inſufficiency, will it be obje<g ref="char:EOLhyphen"/>cted?</p>
+            <p>I anſwer, hee hath power to keepe the party backe from receiving untill ſuch times as his ſu<g ref="char:EOLhyphen"/>ſpition be better informed and his doubt clea<g ref="char:EOLhyphen"/>red. But this hee muſt take heede of, that no<g ref="char:EOLhyphen"/>thing be done of malice, but upon juſt grounds and probable.</p>
+            <pb n="23" facs="tcp:169437:12"/>
+            <p>But what if the Miniſter bee altogether a ſtranger?</p>
+            <p>I anſwer, then he is to uſe the advice and di<g ref="char:EOLhyphen"/>rection of the Elders and Churchwardens, until ſuch time as he be better acquainted; but not therefore to leave the adminiſtration of the Sa<g ref="char:EOLhyphen"/>craments, no more then hee doth of preaching the word of God. And let him know this with<g ref="char:EOLhyphen"/>all or reſolve with himſelfe, that when he hath done all that he can, he ſhall ſtill finde chaffe a<g ref="char:EOLhyphen"/>mong the good corn, goats amongſt the ſheep, a Judas amongſt the Apoſtles, and one without his wedding garment at that heavenly banket. And therefore it is not all the examination and triall in the world that wee can uſe, that will make all worthy Receivers; but the bleſſing and event muſt be left and reſerved to God on<g ref="char:EOLhyphen"/>ly, to whom be prayſe and dominion, now and for ever. Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
